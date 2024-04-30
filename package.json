@@ -1,0 +1,26 @@
+{
+    "name": "y",
+    "version": "1.0.0",
+    "description": "Simmons Nicole DWM4AH Aplicaciones Hibridas Primer Examen Parcial ",
+    "main": "y",
+    "type": "module",
+    "scripts": {
+        "test": "test",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "y"
+    },
+    "keywords": [
+        "Aplicaciones",
+        "Hibridas"
+    ],
+    "author": "Simmons Nicole",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "express": "^4.19.2",
+        "mongoose": "^8.3.2",
+        "nodemon": "^3.1.0"
+    }
+}
